@@ -11,6 +11,7 @@
 </div>
 <nav class="nav">
     <div class="nav-wrapper right">
+        <a href="/index{% if static %}.html{% endif %}">Home</a>
         {% for item in menu_list %}
             {% if "absolute" in item %}
                 {% set url = item.absolute %}
