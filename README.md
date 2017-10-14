@@ -9,12 +9,8 @@ Lpisme theme from January 20, 2016 began production, has been iterative upgrade 
 ![](http://ww4.sinaimg.cn/large/7c98397dgw1f1fj3721ajj20ps0huwhw.jpg)
 
  - no jQuery, no front end frame, lightweight
- - InstantClick implementation PJAX no refresh operation
  - Prismjs Code Highlight Integration
  - responsive design, mobile phone browsing even better
- - Supports picture CDN
- - Support social button, but no social sharing
- - Support for custom fields to implement article type collation
  - more highlights waiting for you to find ...
 
 #### theme activation
