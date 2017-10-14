@@ -6,7 +6,7 @@ Lpisme theme from January 20, 2016 began production, has been iterative upgrade 
 
 #### theme highlights
 
-[] (http://ww4.sinaimg.cn/large/7c98397dgw1f1fj3721ajj20ps0huwhw.jpg)
+[](http://ww4.sinaimg.cn/large/7c98397dgw1f1fj3721ajj20ps0huwhw.jpg)
 
  - no jQuery, no front end frame, lightweight
  - InstantClick implementation PJAX no refresh operation
