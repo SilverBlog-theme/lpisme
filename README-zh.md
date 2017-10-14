@@ -16,7 +16,7 @@ Lpisme主题从2016年1月22日开始制作，一直迭代升级到现在的3.1.
 #### 主题激活
 ```shell
 cd templates
-curl https://raw.githubusercontent.com/SilverBlogTeam/werttin/master/install.sh | bash
+curl https://raw.githubusercontent.com/SilverBlogTeam/lpisme/master/install.sh | bash
 ```
 或者使用"Theme package manager"安装
 
