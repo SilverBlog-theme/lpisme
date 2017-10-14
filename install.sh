@@ -4,11 +4,11 @@ if [ $(basename `pwd`) != "templates" ];then
     exit
 fi
 if [ ! -d "lpisme" ]; then
-    git clone https://github.com/SilverBlogTeam/lpisme.git
+    git clone https://github.com/SilverBlogTheme/lpisme.git
     cd lpisme
 fi
 ln -s $(pwd)/static ../static/lpisme
-if [ -f "config.json" ]; then
+if [ ! -f "config.json" ]; then
     cp config.example.json config.json
     vim config.json
 fi
