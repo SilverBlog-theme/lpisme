@@ -17,7 +17,7 @@ Lpisme theme from January 20, 2016 began production, has been iterative upgrade 
 
 ```shell
 cd templates
-curl https://raw.githubusercontent.com/SilverBlogTeam/werttin/master/install.sh | bash
+curl https://raw.githubusercontent.com/SilverBlogTeam/lpisme/master/install.sh | bash
 ```
 Or use the "Theme package manager" installation
 
