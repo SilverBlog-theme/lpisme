@@ -20,7 +20,7 @@
                         <div class="index-post-header cf">
                             <div class="index-post-date">{{ page_info.time }}</div>
                             <div class="index-post-title">
-                                <a href="/{{ page_info.name }}"
+                                <a href="/post/{{ page_info.name }}"
                                    title="{{ page_info.title }}">{{ page_info.title }}</a>
                             </div>
                         </div>
@@ -31,7 +31,7 @@
 
                         {% if "image" in page_info %}
                             <div class="index-post-thumb">
-                                <a class="index-post-cover" href="/{{ page_info.name }}">
+                                <a class="index-post-cover" href="/post/{{ page_info.name }}">
                                     <img class="thumb" src="{{ page_info.image }}">
                                 </a>
                             </div>
@@ -39,7 +39,7 @@
 
                         <div class="index-post-meta cf">
                             <div class="index-post-category"><a
-                                    href="/{{ page_info.name }}{% if static %}.html{% endif %}">Read more </a>
+                                    href="/post/{{ page_info.name }}{% if static %}.html{% endif %}">Read more </a>
                             </div>
                         </div>
 
