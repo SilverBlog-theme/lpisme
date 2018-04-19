@@ -34,4 +34,4 @@ Ok, this topic is finished.
 
 ### License
 
-Open sourced under the [MIT license] (https://github.com/loozx/lpisme/blob/master/LICENSE.md).
+Open sourced under the [MIT license](https://github.com/loozx/lpisme/blob/master/LICENSE.md).
